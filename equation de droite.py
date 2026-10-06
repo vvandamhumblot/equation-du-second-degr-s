@@ -3,7 +3,7 @@ a = float(input("a = "))
 b = float(input("b = "))
 c = float(input("c = "))
 if a == 0:
-    print("Ce n'est pas une équation du second degré")
+    print("Ce n'est pas une équation du second degrés")
 else:
     delta = b**2 - 4*a*c
 if delta > 0:
